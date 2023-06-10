@@ -85,5 +85,3 @@ docker run -e "TOKEN=<discord-token>" shishir1337/limbda
 - Command Handler from [discordjs.guide](https://discordjs.guide/)
 - Media Controls via Reactions
 
-![reactions](https://i.imgur.com/0hdUX1C.png)
-
