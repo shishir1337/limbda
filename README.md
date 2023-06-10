@@ -1,8 +1,3 @@
-![Node build](https://github.com/shishir1337/limbda/actions/workflows/node.yml/badge.svg)
-![Docker build](https://github.com/shishir1337/limbda/actions/workflows/docker.yml/badge.svg)
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
-
-![logo](https://repository-images.githubusercontent.com/186841818/8aa95700-7730-11e9-84be-e80f28520325)
 
 # 🤖 limbda (Discord Music Bot)
 
@@ -92,44 +87,3 @@ docker run -e "TOKEN=<discord-token>" shishir1337/limbda
 
 ![reactions](https://i.imgur.com/0hdUX1C.png)
 
-## 🌎 Locales
-
-Currently available locales are:
-
-- English (en)
-- Arabic (ar)
-- Brazilian Portuguese (pt_br)
-- Czech (cs)
-- Dutch (nl)
-- French (fr)
-- German (de)
-- Greek (el)
-- Indonesian (id)
-- Italian (it)
-- Japanese (ja)
-- Korean (ko)
-- Minionese (mi)
-- Persian (fa)
-- Polish (pl)
-- Russian (ru)
-- Simplified Chinese (zh_cn)
-- Singaporean Mandarin (zh_sg)
-- Spanish (es)
-- Swedish (sv)
-- Traditional Chinese (zh_tw)
-- Thai (th)
-- Turkish (tr)
-- Ukrainian (uk)
-- Vietnamese (vi)
-- Check [Contributing](#-contributing) if you wish to help add more languages!
-- For languages please use [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) two letter format
-
-## 🤝 Contributing
-
-1. [Fork the repository](https://discord.gg/XCnCpV43W7/fork)
-2. Clone your fork: `git clone https://github.com/your-username/limbda.git`
-3. Create your feature branch: `git checkout -b my-new-feature`
-4. Stage changes `git add .`
-5. Commit your changes: `cz` OR `npm run commit` do not use `git commit`
-6. Push to the branch: `git push origin my-new-feature`
-7. Submit a pull request
