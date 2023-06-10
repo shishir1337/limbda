@@ -1,0 +1,7 @@
+{
+  "name": "Limbda",
+  "description": "🤖 Discord Music Bot built with discord.js",
+  "repository": "https://discord.gg/XCnCpV43W7",
+  "logo": "https://i.imgur.com/2pTYCA9.jpg",
+  "keywords": ["discord", "discordjs", "typescript", "music", "bot"]
+}
